@@ -1,0 +1,8 @@
+One question from the full dataset is:
+
+"In 1963, live on ""The Art Linkletter Show"", this company served its billionth burger".
+
+We might label that as "Pop Culture". As expected, the actual Jeopardy category, "THE COMPANY LINE", gives us little clue as to what the trivia category is.
+
+The full dataset csv can be found here:
+https://drive.google.com/file/d/0BwT5wj_P7BKXUl9tOUJWYzVvUjA/view?resourcekey=0-uFrn8bQkUfSCvJlmtKGCdQ
