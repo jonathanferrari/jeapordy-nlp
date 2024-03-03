@@ -1,0 +1,15 @@
+A. No, this is data from a television program that was publicly aired. There is no private or sensitive data.
+
+B. No, the data itself has no reference to people whatsoever, they are simply trivia questions asked to individuals. The data itself does not pertain to any individuals.
+
+C. No, the information used in crafting the questions is purely public data. No personal information would be used in the program; thus, this dataset contains none.
+
+D. We will draw a uniform random sample from the larger dataset. We will sample 500 unique categories. From each of those categories, we will randomly (uniformly) sample one question to use in our dataset. This will ensure we use 500 unique questions from 500 unique categories to ensure independence from each of our data points and remove as much covariance as possible between points.
+
+E. Yes, we will only be using a subset of the columns and rows, such as after cleaning and dropping data we may not use, but we will include the full raw dataset in our repository as well.
+
+F. We do not see any foreseeable issues with the dataset, as it has been recorded from the program, without biases. We do acknowledge that the data has been digitized and could thus lead to typos in the questions, however, we will do our best to confirm that these are not included in the subset of our data after the cleaning is completed.
+
+G. We do not foresee any ill-advised uses of this data, as it contains simple trivia facts, not any personal data.
+
+H. No, we are just using the trivia questions and answers from the game show Jeopardy. Generally, names and facts are not copyrightable, so we see no imposed restrictions on the data

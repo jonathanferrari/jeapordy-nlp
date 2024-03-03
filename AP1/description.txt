@@ -1,0 +1,9 @@
+We are going to annotate a Jeopardy questions dataset by categorizing each question into common trivia question categories/subjects (e.g., sports, pop culture, history, science, etc.). 
+
+Jeopardy! Is a trivia game show that has been ongoing for decades on NBC. The format is unique in that questions are presented as answers (statements) and contestants must answer in the form of a question. Questions are organized into categories that hint at the answer (e.g. puns, answers starting with specific prefix), although these categories do not directly specify what the subject of the questions is (thus leading to subjectivity and non-deterministic classification).
+
+Our data is from the website j-archive.com, which was processed into json/csv files by u/trexmatt for the r/datasets subreddit. The original dataset contains 216,930 questions spanning from episodes from 1984 to 2011. Features of the original dataset include ‘category’, ‘value’, ‘question’, ‘answer’, ‘round’, ‘show_number’, and ‘air_date’. We will sample 500 categories from this dataset and then sample a question from each provided category (questions within the same Jeopardy category are likely to also have the same subject category).
+
+After examining some of our samples, we will create our subject categories (about 5 to 10 categories). We will then manually classify according to the guidelines dictated in the assignment. Later in the project, we can create a multiclass model to predict our subject labels.
+
+We believe that there will be some variation in how we would classify specific questions (for example, whether a question about Isaac Newton’s life, which we could call history of science, would fall under ‘history’ or ‘science’). Additionally, there are some human/cultural references that would be very difficult for a machine to pick up on without human input or feedback, which makes this dataset more interesting and creates non-deterministic classification.
