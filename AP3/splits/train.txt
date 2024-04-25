@@ -1,0 +1,301 @@
+Category,Value,Question,Answer,class
+GAMES,$400,"Popular parlor game also known as ""Animal, Vegetable, or Mineral?""",20 questions,Sports
+U.S. PRESIDENTS,$300,"From 1890 to 1902, he served as professor of jurisprudence & political economy at Princeton",Woodrow Wilson,Non-Fiction
+POTENT POTABLES,$400,A 7&7 mixes 7Up & this,Seagram's 7,Non-Fiction
+"""STICK"" WITH IT",$200,It is easier to eat with these wooden utensils after you split them apart,Chopsticks,Non-Fiction
+I WANNA BE...,$2000,...this kind of 12-letter person & make some big bucks correcting crooked teeth with braces,an orthodontist,Non-Fiction
+MAGAZINES,$1000,Flashy journal of cyberspace that shares its name with a biography of John Belushi,Wired,Non-Fiction
+VICE-PRESIDENTS,$1000,Harry Truman was exceptionally pleased with the performance of this vice president,Alben Barkley,Non-Fiction
+EARTH SCIENCE,"$1,000","Today, it lies near Ellef Ringnes Island in northern Canada",North Magnetic Pole,Science/Geography
+FRENCH NAMES OF COUNTRIES,$200,Arabie Saoudite,Saudi Arabia,Non-Fiction
+HOME BOYS,$600,Gophers,Minnesota,Sports
+A BRIEF HISTORY OF RHYME,$400,"""Fiddling"" Roman emperor's admired people",Nero's heroes,Non-Fiction
+A GORILLA'S BEST FRIEND,$800,"Discovered in 1966, Snowflake was the first known specimen of this type of gorilla",White/albino gorilla,Science/Geography
+DIRTY ROTTEN SCOUNDRELS,$200,"This woman with a reputation as a hard-drinking, foul-mouthed ruffian claims she married Wild Bill Hickok",Calamity Jane,Non-Fiction
+YOU'RE ALL WET,$1000,The name of this ocean is derived from the name of a titan in Greek myth who was a brother of Prometheus,the Atlantic,Non-Fiction
+COMMENCEMENT SPEECHES,$1600,"Speaking at the Boston College Law School, this Fed head praised J.K. Rowling & quoted John Lennon",Bernanke,Non-Fiction
+SCIENCE BRIEFS,$800,In 1909 Soren Sorensen came up with this scale to measure acidity,pH scale,Science/Geography
+THE HOME SPA,$200,Cleopatra is said to have used rejuvenating products from this saline body of water in which the Jordan ends,the Dead Sea,Non-Fiction
+"WHAT'S ""UP"" DOC",$100,Direction you want to be when meeting a skunk,upwind,Non-Fiction
+"""C"" DUTY",$800,You auto know this small Michigan city that rests on the lake of the same name,Cadillac,Science/Geography
+'50'S TV,$200,"Occupation of Richard Diamond, Peter Gunn & Mike Hammer",private eyes (or private detectives),Fiction
+SHORTS,$600,"This female star of ""Hope Floats"" wrote & directed the short ""Making Sandwiches""",Sandra Bullock,Non-Fiction
+HISTORIC AMERICANS,$1000,"As chief justice from 1864 to 1873, he presided at the impeachment trial of Andrew Johnson",Salmon P. Chase,Non-Fiction
+PO BOYS,$1200,"After featuring his bare chest & flowing locks on the covers of romance novels, this Milan man wrote a few too",Fabio,Non-Fiction
+18 YEARS OF LEFTOVERS,$400,"From Season 14: 21-year-old Frances Folsom married 49-year-old Grover Cleveland in this ""colorful"" room",the Blue Room,Non-Fiction
+SPORTS NICKNAMES,$200,Broadway Joe,Joe Namath,Sports
+COLLEGE MOVIES,$400,"Disillusioned with their lives, Luke Wilson & Will Ferrell start their own frat in this film",Old School,Fiction
+"FAIRBURY, NEBRASKA",$400,"Fairbury is the seat of this county named for the U.S. president known as the ""Sage of Monticello""",(Thomas) Jefferson,Science/Geography
+IT TAKES A THIEF,$200,What a thief called a “dip” dips into,pocket,Non-Fiction
+COLLEGES & UNIVERSITIES,$2000,Martha Stewart & Anna Quindlen are graduates of this women's college that's affiliated with Columbia,Barnard,Non-Fiction
+POETS & POETRY,$600,"""Seldom does a first book contain so few unsuccessful things"", said Amy Lowell of his ""Chicago Poems""",Sandburg,Non-Fiction
+THE PLAGUE,$200,Plague is generally spread from rodents to humans by these insects,fleas,Science/Geography
+CARE TO SEE MY ETCHINGS?,$600,"One of his most famous etchings is ""Christ Healing the Sick"", aka ""The 100-Guilder Print"", completed in the 1640s",Rembrandt,Non-Fiction
+IT'S IN YOUR MIND,$1000,I love Dr. Freud for using this term for strong feelings of attachment by a patient toward an analyst,transference,Science/Geography
+VERB FIRST NAMES,$200,To open or pierce with the surgical instrument of the same name,Lance,Non-Fiction
+THAT TITLE IS TAKEN,$2000,This Cormac McCarthy title comes from a Yeats poem about a senior citizen's hope to transmute himself into art,No Country for Old Men,Fiction
+POETRY IN MOTION,$1600,"""'Forward the light brigade!' Was there a man dismay'd?  Not tho' the soldier knew some one had blunder'd""",Tennyson,Fiction
+WORLD FACTS,$600,"The lowest river in the world, it's revered by Jews, Christians & Muslims alike",The River Jordan,Science/Geography
+TV NOSTALGIA,$400,"One of Tallulah Bankhead's last roles was as this ""Batman"" villainess named for a spider",Black Widow,Fiction
+BAYS,$800,"The eastern coast of this bay has many good ports, including Sittwe, Myanmar",Bay of Bengal,Science/Geography
+AMERICAN HISTORY,$200,"After General Cornwallis Surrendered at Yorktown, this American traitor accompanied him back to England",Benedict Arnold,Non-Fiction
+"""RA"", ""RA"", ""SIS"", ""BOOM"", ""BA""",$200,It was Bob Marley's religion,Rastafarianism,Non-Fiction
+7-LETTER WORDS,$600,"It precedes ""Man March"" & ""-aire""",million,Non-Fiction
+GEMS,$300,"Many of the red stones are classified as the ""fire"" variety of this fiery gem come from Mexico",opals,Science/Geography
+WORLD CELEBRITIES,$300,B.K.S. Iyengar of India is often called the world's foremost teacher of this body-twisting practice,Yoga,Non-Fiction
+AUTHOR! AUTHOR!,$1000,"""Looking Backward""",Edward Bellamy,Non-Fiction
+QUITE A DICKENS CHARACTER,$400,"Nickname shared by Captain Ahab's cabin boy & the narrator of Dickens' ""Great Expectations""",Pip,Fiction
+POTENT POTABLES,$2000,The desert plant used to make tequila is blue this,agave,Non-Fiction
+FAMOUS PAIRS,$1200,The Bad Boys of Magic: Penn &  ______,Teller,Non-Fiction
+ENGLISH LIT,$400,"This hero gets adopted in the last chapter, so the book could have been called ""Oliver Brownlow""",Oliver Twist,Fiction
+BORN IN 1909,$400,"Barry Goldwater, in Arizona, which still had this status",a territory,Non-Fiction
+SCIENTISTS,$600,Daniel Webster represented this vulcanization inventor in a patent infringement trial,Charles Goodyear,Science/Geography
+TRUE & FALSE,$400,The true morel variety of these is okay to eat; the false morels are poisonous,mushrooms,Science/Geography
+MOVIE TITLE TRANSLATIONS,$600,"In France, Billy Crystal learned all about ""life, love and cows"" in this film",City Slickers,Fiction
+"""EAU"", YEAH!",$800,"From the Old French for ""flame"", it's a large ornamental candlestick",flambeau,Non-Fiction
+AROUND THE U.S.A.,$400,"(<a href=""http://www.j-archive.com/media/2005-10-07_DJ_01.jpg"" target=""_blank"">I'm John DeStefano, mayor of New Haven.</a>)  New Haven is known as ""The Smart City"", partly because it's home to this institution founded in 1701",Yale,Science/Geography
+FAMOUS COUNTS,$200,This literary count was based in part on a Romanian prince named Vlad the Impaler,Count Dracula,Fiction
+AT THE MOVIES,$2000,"This director of 1931's ""Frankenstein"" was the subject of the film ""Gods and Monsters""",James Whale,Non-Fiction
+"""HIGH"" SCHOOL",$200,"Chuck Taylor, from whom Converse named a line of these shoes, was a basketball star of the 1910s",high-tops,Non-Fiction
+THE ELEMENTS,$100,"This metal, Al, used in beverage cans & food wrap was once considered a precious metals",aluminum,Science/Geography
+ON THE WEB,$1200,"Looking for old high school friends?  Try this site, ""The World's Best Place to Reunite""",Classmates.com,Non-Fiction
+TIME'S MAN OF THE YEAR,$400,Pope John XXIII was Man of the Year for 1962; this pope was Man of the Year for 1994,Pope John Paul II,Non-Fiction
+MY MAINE MAN!,$600,"Born in Bar Harbor on July 8, 1908, he succeeded Gerald Ford as VP",Rockefeller,Non-Fiction
+FAMOUS TRIALS,$800,"Stabbed during his capture at Harpers Ferry, this abolitionist spent most of his 1859 trial lying on a cot",John Brown,Non-Fiction
+TAKE A LETTER,$400,The Spanish put a tilde above this letter to indicate a palatal nasal sound,N,Non-Fiction
+I'M FUNEMPLOYED,$200,Move over Rachel Zoe--I love to work with celebs as this type of stylist (Angelina's fitting is today!),a fashion stylist,Non-Fiction
+RELIGIOUS LEADERS,$100,The Rev. Heber Jentzch heads this L. Ron Hubbard religion,Scientology,Non-Fiction
+"NOTHING ""BUT""",$1200,He was Secretary of Agriculture under Nixon & Ford,Earl Butz,Non-Fiction
+PASTIMES,$1000,This basic knitting stitch is drawn through the back of the preceding loop,purl,Non-Fiction
+ALL ABOUT THE PRESIDENCY,$400,The presidential library system formally began in 1939 when this man donated his papers to the federal government,Franklin D. Roosevelt,Non-Fiction
+"""A"" BEFORE ""E""",$600,"For its 75th anniversary, it is offering flights between Dublin & Boston for as low as 199 euros",Aer Lingus,Non-Fiction
+100 _____ MAKE A....,$100,Scrape together 100 sen & you can trade them in for one of these in Japan,Yen,Science/Geography
+ANAGRAMMED SHAKESPEARE PLAYS,$400,"""Hell too""",Othello,Fiction
+BROADWAY SHOWS BY ROLES,$1200,"The French Taunter, Tim the Enchanter, Concorde",Spamalot,Fiction
+"""M"" & EMMYS",$1000,"If you do a little snooping, you'll find that Bruce Willis won in 1987 for this series",Moonlighting,Non-Fiction
+ODDS & ENDS,$1000,The Latin name of this ocean creature is Xiphias gladius,swordfish,Science/Geography
+DA VINCI,$800,"Dan Brown's ""The Da Vinci Code"" reveals clues in da Vinci's works including one titled this woman ""of the Rocks""",The Madonna,Fiction
+VARMINTS,$1600,These nocturnal ringtailed mammals find that a chimney makes an excellent den,raccoons,Science/Geography
+WHAT'S ON YOUR HEAD?,$1000,"This hat named for its ""north-of-the-border"" wearers is worn in the U.S. by state policemen & forest rangers",a Mountie hat,Non-Fiction
+VOCABULARY,$200,"It can describe a row of bushes that form a border, or it can mean to stall, as if hiding behind one",Hedge,Non-Fiction
+IN YOUR CHEVROLET,$400,The Metro is from this line Chevrolet introduced in 1989,the Geo,Non-Fiction
+THE BRIT PIC,$1200,"Early 19th-century bestselling author depicted <a href=""http://www.j-archive.com/media/2006-05-03_DJ_13.jpg"" target=""_blank"">here</a>",Jane Austen,Non-Fiction
+HURRY UP!!!,$800,"""I feel the need... the need for speed!"" is a line from this high-octane Tom Cruise movie",Top Gun,Fiction
+WEIGHTS & MEASURES,$400,"Hold your breath!  If you traveled 20,000 leagues under the sea, you'd go 60,000 of these",miles,Science/Geography
+"""NATIONAL""ISM",$800,This party gained power in Germany in 1933 with the support of about 44% of voters,National Socialist Party,Non-Fiction
+"""BON"" APPETIT",$1000,"<a href=""http://www.j-archive.com/media/2010-10-29_J_15.jpg"" target=""_blank"">This</a> distinctive predator is seen <a href=""http://www.j-archive.com/media/2010-10-29_J_15a.jpg"" target=""_blank"">here</a>.",bonnethead shark,Science/Geography
+WHAT FOODS THESE MORSELS BE,$300,This festive holiday drink can be enjoyed all year: (topped with nutmeg),Eggnog,Non-Fiction
+LIT ON FILM,"$1,700","Rumpelstiltskin is a character in the 1962 fantasy ""The Wonderful World of"" these German brothers",the Grimm brothers,Fiction
+BONE UP ON YOUR BONAPARTE,$400,The admiral who defeated Napoleon's navy in 1798's Battle of the Nile,Lord Nelson,Non-Fiction
+WOOD,$600,"This tree's name has passed into the names of honors, like a poet's post or a degree",Laurel,Non-Fiction
+DOCS,$1000,"Hans Selye pioneered the study of this & wrote a book about it ""without distress""",Stress,Science/Geography
+"A CATEGORY WITH ""FIN""s",$800,"It's the ""F"" in a corporation's CFO",financial,Non-Fiction
+WRITERS,"$2,200","Richard Wright wrote ""Native Son""; this fellow African-American author wrote ""Notes of a Native Son""",James Baldwin,Non-Fiction
+MUSICMAKERS,$1000,"In 1972 he ""and Mrs. Jones"" had a ""thing going on""",Billy Paul,Non-Fiction
+1991 FILMS,$400,"""Once Around"" re-teamed Holly Hunter & this actor, her co-star from ""Always""",Richard Dreyfuss,Non-Fiction
+"BABY, YOU CAN DRIVE MY CAR",$1600,"Hey, baby, it's GM's luxury car division named for the explorer who founded Detroit",Cadillac,Non-Fiction
+FAMOUS LAST WORD,$2000,"In the ""Flintstones"" theme",time,Fiction
+PREHISTORIC TIMES,$2000,"The name of this earliest human species is Latin for ""skillful human being""",Homo habilis,Science/Geography
+NIP/TUCK,$1200,"Saved by Oliver Wendell Holmes' poem about it, it's been refurbished several times & sailed again in 1997","""Old Ironsides""",Non-Fiction
+I'VE TRAVELED EACH & EVERY HIGHWAY,$2000,"Domine Quo Vadis Church stands on this road, where tradition says Peter asked Jesus, ""Lord, where are you going?""",the Appian Way,Non-Fiction
+GRAVE MATTERS,$400,In 1840 his body was moved from St. Helena to Paris & entombed in the Church of the Dome,Napoleon,Non-Fiction
+THE SOUTH PACIFIC,$1200,In 1957 remains of the H.M.S. Bounty were discovered off this tiny island,Pitcairn Island,Non-Fiction
+"STARTS WITH ""A""",$200,"In names of holidays, this word precedes Saints' Day & Souls' Day",All,Non-Fiction
+E_____E,$200,"When it comes to this flat container, you can stuff it, lick it, or ""push"" it",an envelope,Non-Fiction
+1980s BESTSELLERS,$800,"Her autobiography ""Shelley: Also Known as Shirley"" was a bestseller in 1980",Shelley Winters,Non-Fiction
+"""C"" HERE",$100,"Fear, Horn & Cod are 3 of these",capes,Non-Fiction
+TRAVEL U.S.A.,$100,Wicker furniture maker Harry Shill built the rolling chairs used on this city's Boardwalk,Atlantic City,Non-Fiction
+PETER,$800,"In an HBO biopic John Lithgow played Blake Edwards, & Geoffrey Rush, this late actor",Peter Sellers,Fiction
+ART,$1200,"The Van Eyck bros. weren't the 1st to use these paints, though sometimes creditied with it; they date back much earlier",oils,Non-Fiction
+STEPHEN KING NOVEL PLOTS,$400,Young Charlie McGee inherits pyrokinetic powers from her parents & the feds want to recapture all of them,Firestarter,Fiction
+PRESIDENTS & FIRST LADIES,$200,In 1805 an agricultural society gave this U.S. president a gold medal for one of his inventions,Thomas Jefferson,Non-Fiction
+TAKE A POWDER,$600,"Seidlitz Powder, taken for cathartic effect, includes this element's bicarbonate",sodium,Science/Geography
+POETRY,$600,"William Blake asked, ""Little"" this ""who made thee?"" & ""gave the clothing of delight...wooly, bright""",lamb,Fiction
+FOOD & DRINK BRANDS,$2000,The name of this brand of hard candies was meant to suggest a friendly Western company,Jolly Rancher,Non-Fiction
+MISSING LYRICS,$1000,"""What goes up must come down, ___ ___ got to go 'round""",spinning wheel,Fiction
+I WANT TO RIDE THAT!,$200,"The Pitt Fall is a scary free fall ride at Kennywood, near this second-largest Pennsylvania city",Pittsburgh,Non-Fiction
+DAISY CRAZY,$400,It's used as the printing element in certain electric typewriters & older computer printers,a daisy wheel,Non-Fiction
+STATE OF PLAY,$200,"Bears, Bulls, Cubs",Illinois,Science/Geography
+DON'T SAY      MOBY DICK,$200,In 1851 Harriet Beecher Stowe began serializing this,Uncle Tom's Cabin,Fiction
+"WHAT'S UP, DUCK?",$1000,This controversial social drama by Henrik Ibsen premiered in Norway in 1885,The Wild Duck,Non-Fiction
+"FILE UNDER ""P""",$400,It was filled to the brim with evils; then it was opened & mankind was in trouble,Pandora's box,Fiction
+"""E"" TIMES 3",$800,"An accused person in court, along with his counsel",the defense,Non-Fiction
+"GIVE US ""Z"" ANSWER!!!",$800,"A compound of this element, atomic number 30, is used in lotions as a sunscreen",zinc,Science/Geography
+CLAWS,$1000,"An animal that retracts its claws pulls them back into this, which also means the holder for a sword",sheath,Science/Geography
+CUTE ANIMALS,$200,The pups of the harp species of these are known as whitecoats,seals,Science/Geography
+SINGLE DIGITS,$400,"We don't know how many faces death has, but a die has this many",6,Sports
+CHICAGO,$100,"Some attribute this nickname of the city to its proud, boasting citizens, not its breeziness","""The Windy City""",Non-Fiction
+DOG STARS,$200,It's the comic strip in which you'll find the Bumsteads' dog Daisy,"""Blondie""",Fiction
+TASMANIAN TIDBITS,$100,Tasmania is this country's smallest state,Australia,Non-Fiction
+BODIES OF WATER,$1600,"This river flows about 1,150 miles from Lake Hazar in Turkey through Baghdad, on its way to the Persian Gulf",the Tigris,Sports
+SONGS EVERYBODY KNOWS,$1000,"This Italian classic whose title translates as ""O My Sun!"" dates from 1898","""'O Sole Mio""",Fiction
+CURRENT TV THEMES,$1000,"This group features Les Claypool performing the theme for ""South Park""",Primus,Fiction
+FUN WITH BALLET,$400,"Every ""Psycho"" knows that Matthew Bourne's ballet ""Deadly Serious"" is an homage to this film director",Alfred Hitchcock,Non-Fiction
+BEASTLY MOVIE TITLES,$200,This 1990 film is one of the few kids' pictures about sewer-dwelling reptiles,Teenage Mutant Ninja Turtles,Fiction
+CAPITAL CITY BIRTHPLACES,$400,Simon Bolivar,Caracas,Non-Fiction
+AMERICAN BUSINESS,$200,"Johnson & Johnson has been ""stuck on"" this product for 85 years",Band-Aids,Non-Fiction
+THE STAMP ACT,$800,"The <a href=""http://www.j-archive.com/media/2008-02-20_DJ_02.jpg"" target=""_blank"">Pollination</a> stamps show a butterfly, a bat, bees & this small nectar-sipping bird",a hummingbird,Science/Geography
+STATE SYMBOLS,$400,"In 1982, Colorado made this plated dinosaur its state fossil",the Stegosaurus,Non-Fiction
+THE REEL WORLD,$300,"The L.A. Times said this 2000 Nick Park animated film was ""Poultry in Motion""",Chicken Run,Fiction
+POTENT PEOPLE,$400,Elizabeth I succeeded the woman nicknamed this,"""Bloody Mary""",Non-Fiction
+LEGAL LINGO,"$1,500","(VIDEO DAILY DOUBLE): ""(Hi, I'm Star Jones of ""The View""; as a lawyer I can tell you) This Latin phrase meaning ""of unsound mind"" is often used to indicate permanent or temporary insanity""",Non compos mentis,Non-Fiction
+"A SHAKESPEARE PLAY, FOR OPENERS",$200,"This play opens on the battlements of the castle at Elsinore as Barnardo asks, ""who's there?""",Hamlet,Fiction
+"""SAN""",$1600,"From the Latin for ""holy"", it means feigning great righteousness & piety",sanctimonious,Non-Fiction
+TELEVISION,$300,"This Phil Silvers character was master sergeant of the motor pool at Fort Baxter, Kansas",Sgt. Bilko,Fiction
+"""K"" RATIONS",$800,"On the big screen he was billed as the ""Eighth Wonder of the World""",King Kong,Fiction
+THE LAW,$400,An application to a judge to obtain an order; a lawyer might make one to dismiss or to suppress,a motion,Non-Fiction
+ALIAS,$800,Nguyen Tat Thanh began using this alias around 1941 when he founded the Viet Minh,Ho Chi Minh,Non-Fiction
+THE NATIONAL INVENTORS HALL OF FAME,$200,For his revolver with interchangeable parts,Colt,Non-Fiction
+ADD TWO LETTERS,$2000,New or fresh; add two letters & you get this adjective for an early inhabitant of Australia,original & Aboriginal,Non-Fiction
+TV TEENS,$800,Matt Camden was 16 & his sister Mary 14 when this WB show premiered in '96,7th Heaven,Non-Fiction
+BEASTLY LIT,$1600,"A mystery by Donna Andrews: ""We'll Always Have"" these birds",Parrots,Fiction
+NEW TESTAMENT QUOTES,$200,"In Luke, Elisabeth told her, ""Blessed art thou amoung women, and blessed is the fruit of thy womb""",Mary,Fiction
+FOOD FOR THOUGHT,$800,Squash & sweet potatoes are rich in this orange pigment that's good for the eyes & the brain,beta carotene,Science/Geography
+MILITARY SCIENCE,$600,The bugle call that starts the day or the morning ceremony with the flag raising,Reveille,Non-Fiction
+LITERARY QUOTES,$200,"About the respectability of whaling, this 1851 novel claims, ""Whaling is imperial!""","""Moby Dick""",Fiction
+"""R"" TOWN",$200,"If you're tall & tan & young & lovely, head to Ipanema Beach in this city",Rio de Janeiro,Non-Fiction
+TRANSPORTATION,$1000,"This light Russian sleigh, whose name means ""a group of 3"", is pulled by 3 horses",a troika,Non-Fiction
+PRIME MINISTERS,$100,This current French president served as prime minister under both Giscard d'Estaing & Mitterrand,Jacques Chirac,Non-Fiction
+AMERICAN FACES,$2000,"Known to many a slender fellow, he's the big guy <a href=""http://www.j-archive.com/media/2007-04-03_DJ_05.jpg"" target=""_blank"">seen</a> <a href=""http://www.j-archive.com/media/2007-04-03_DJ_05a.jpg"" target=""_blank"">here</a> as he looked in those magazine ads",Charles Atlas,Non-Fiction
+OPERA CHARACTERS,$800,"In an 1893 opera, Peter is the father of these gingerbread-gorgers",Hansel & Gretel,Fiction
+"""S"" TOUGH",$2000,"The 2 last names of R.L. & M.L., who formed a company in 1924 to publish a book of crosswords",Simon and Schuster,Non-Fiction
+PEOPLE WITH MUPPET NAMES,$200,Elmo Lincoln was the 1st to play this film character as an adult; he was later played by Weissmuller,Tarzan,Non-Fiction
+MUSIC'S MISSING PERSONS,$800,"Van Halen: ""____'s Cryin' """,Jamie,Fiction
+"PASS THE ""P""s",$2000,"The unscheduled temporary replacement of a TV show, often by a newsworthy event",preemption,Non-Fiction
+IN THE MIDDLE OF THE STATE,$800,"The General Assembly legislates this state's ""law""",Delaware,Non-Fiction
+A NUMBER LESS THAN 10,$400,"In cricket scoring, it's a duck's egg",0,Sports
+COLLEGES & UNIVERSITIES,$800,"This Hanover, New Hampshire college was established in 1770 when Eleazer Wheelock erected a single log hut",Dartmouth,Non-Fiction
+RELIGION,$400,This synagogue ceremony marking manhood dates to the Middle Ages,Bar Mitzvah,Non-Fiction
+"YOU JUST HAVE TO ""ASK""",$1000,Gordie Howe got his first pair of skates growing up in this Canadian city,Saskatoon,Non-Fiction
+SPACE EXPLORATION,$200,"In 1984 Bruce McCandless became the first human to perform an untethered EVA, which stands for this",Extra-vehicular activity,Non-Fiction
+1998 QUOTATIONS,$100,"Concerning a failed Windows 98 demonstration, he said, ""I guess we still have some bugs to work out""",Bill Gates,Non-Fiction
+BILLBOARD MAGAZINE,None,"Launched in 2004, Billboard's first Top 20 chart for these included ""My Boo"", the ""Halloween"" theme & ""Ice Ice Baby""",ringtones,Non-Fiction
+"""WOO"" WOO!",$400,Chewbacca is the best known of these fictional creatures,a Wookiee,Fiction
+BOXING,$400,In 1915 Jess Willard took the heavyweight title from this first black man to hold it,(Jack) Johnson,Sports
+HYPO-POURRI,$200,"One who fears that he is suffering from a major undetected disease, despite medical evidence to the contrary",a hypochondriac,Science/Geography
+A DAY WITH GRANDMA,$1200,"It was awkward when Grammy asked about your sister's this--you thought she meant archery, but she meant a boyfriend",a beau,Non-Fiction
+"IT'S A ""BUST""!",$400,Last-ditch Senate maneuver,a filibuster,Non-Fiction
+"A BOY NAMED SUE, ET AL.",$800,"This actress has played a vice president, a chief justice, Homer Simpson's mom & Cruella de Vil",Glenn Close,Non-Fiction
+GAP,$200,Feel like a swim?  The gap between Florida & this island nation of 11 million is about 90 miles,Cuba,Non-Fiction
+"PASS THE ""P""s",$1200,"It's a British word for a fistfight; in Hollywood, it's to add jokes to a comedy script",a punch-up,Non-Fiction
+"""C""OUNTRIES",$2000,This nation that joined the E.U. as a divided country is working with the U.N. to reunite under a federal structure,Cyprus,Non-Fiction
+CAPITAL PUNISHMENT,$200,Mata Hari,Firing Squad,Non-Fiction
+SNL ALUMNI,$600,In 1999 he pumped up nightclubs with a musical tribute to his hero Frank Sinatra,Joe Piscopo,Non-Fiction
+CAPITAL IDEAS,$800,The U.K. helped fund the design of this capital after Belize City was destroyed by a hurricane,Belmopan,Non-Fiction
+SPORTSWOMEN,None,"Referring to a 1999 incident, her autobiography is titled ""It's Not About the Bra""",Brandi Chastain,Non-Fiction
+LET'S HAVE A CONFERENCE,$600,"(I'm NFL wide receiver Jimmy Smith)  I played for Jackson State University in this conference, abbreviated the SWAC",Southwestern Athletic Conference,Sports
+CLASS FIELD TRIP,$1200,A class field trip to an aviary means you're going to an enclosure where these are kept,birds,Non-Fiction
+POTPOURRI,$400,The Kennedy Center's grand foyer is lit with 18 of these crystal items; they each weigh a ton,Chandeliers,Non-Fiction
+CANALS,$400,The city of Balboa is the Pacific terminus of this 51-mile-long canal,the Panama Canal,Non-Fiction
+THE H WITH U,$800,It's a Greek word for excessive pride or self-confidence,hubris,Non-Fiction
+AROUND THE WORLD,$400,"This Scandinavian country is quite flat: its highest point, Yding Skovhoj, is just 568 feet high",Denmark,Non-Fiction
+PASSING TIME ON CAMPUS,$1200,"Raise some of these animals, like the Rhode Island Red or the Cornish, in the quad",chickens,Science/Geography
+TV LAND'S TOP QUOTES,$600,"""You're fired""",(Donald) Trump,Non-Fiction
+DOGS,$300,"Of the Brussels Dragon, the Brussels Unicorn or the Brussels Griffon, the one that's a dog",a Brussels Griffon,Non-Fiction
+STATE CAPITALS,$500,"The name shows its founder, Roger Williams, believed God led him there",Providence,Science/Geography
+ART FOR ART'S SAKE,$800,"She's the Pennsylvania-born expatriate whose work is seen <a href=""http://www.j-archive.com/media/2005-12-05_J_16.jpg"" target=""_blank"">here</a>",(Mary) Cassatt,Non-Fiction
+MOVIE LOCALES,$1200,"""Ferris Bueller's Day Off""",Chicago,Fiction
+NOTABLES RHYME TIME,$600,Explorer Ericson's undies,Leif's briefs,Non-Fiction
+BOOKS & AUTHORS,$500,"This author of ""All I Really Need to Know I Learned in Kindergarten"" is an ordained Unitarian minister",Robert Fulghum,Non-Fiction
+AMERICAN SIGN LANGUAGE,$800,"<a href=""http://www.j-archive.com/media/2009-01-28_J_29.jpg"" target=""_blank"">This</a> area of land with a specific use is of grave importance",graveyard (cemetery),Non-Fiction
+EUROPEAN COMPOSERS,$1200,"At the time of this ""New World"" composer's death in 1904, he was the director of the Prague Conservatory",Dvorak,Non-Fiction
+WHERE THEY PLAY,$2000,Kurt Warner,TWA Dome/Edward Jones Dome,Non-Fiction
+CELEBRITY HIGH SCHOOL YEARBOOK,$800,"<a href=""http://www.j-archive.com/media/2006-01-30_J_04.jpg"" target=""_blank"">This</a> actress has total recall of her high school days in Pennsylvania, as a self-described uber-geek & outsider",Sharon Stone,Non-Fiction
+NATIONAL PARKS,$400,Upper Geyser Basin in this park has dozens of thermal features,Yellowstone,Science/Geography
+STATE BORDERS,$1000,The Connecticut River forms the border of these 2 New England states north of Connecticut,New Hampshire & Vermont,Non-Fiction
+PEOPLE YOU CAN EAT,$800,This turn-of-the-century opera diva has had a peach & ice cream dessert & a type of toast named for her,Nellie Melba,Non-Fiction
+"""D"" IN LITERATURE",$200,"In titles, this word precedes ""Comes for the Archbishop"", ""in Venice"" & ""of a Salesman""",Death,Fiction
+SHAKESPEAREAN OPERAS,"$2,000","Love that sparring: ""Beatrice et Benedict""",Much Ado About Nothing,Fiction
+FASHION HISTORY,$300,"When a Roman youth reached manhood, he began to wear a toga pura of this color",white,Non-Fiction
+EVERYTHING'S COMING UP MOSES,$800,"Despite what Charlton Heston did, in Exodus, Moses climbs this at least 7 times, not just twice",Mt. Sinai,Non-Fiction
+"""HY"" THERE",$600,The handsome young Greek god of marriage,Hymen,Fiction
+FAMOUS NAMES,$200,Fred Noonan was navigator on the 1937 around-the-world flight on which she disappeared,Amelia Earhart,Non-Fiction
+NIGHTLY NEWS WORDS,$400,"Yes, I was picturing the scene <a href=""http://www.j-archive.com/media/2009-02-17_J_10.jpg"" target=""_blank"">here</a> before I found this term meant an ex-CEO's sweet benefits",a golden parachute,Non-Fiction
+"""G""-RATED COUNTRIES",$400,"Situated at the far south of the Balkan peninsula, its territory includes more than 1,400 islands",Greece,Non-Fiction
+LETTER PERFECT,$600,It's the Roman numeral for 500,D,Non-Fiction
+LANGUAGES,$1000,It's the most widely spoken of the artificial languages,Esperanto,Non-Fiction
+ACTOR-DIRECTORS,$1000,"This bald director who appeared in ""Stalag 17"" was the father of Gypsy Rose Lee's son Eric",Otto Preminger,Non-Fiction
+OPERA,$200,"By the end of ""Salome"" this character has lost his head",John the Baptist,Fiction
+DOGS OF WAR,$1000,The dog Soter warned the citizens of an attack in this ancient Greek port city founded by Dorians,Corinth,Non-Fiction
+DESPERATE MEASURES,$400,There are 192 of these in 12 pounds,Ounces,Science/Geography
+"""A"" PLUS",$100,To improvise a speech or performance on the spot,Ad-lib,Non-Fiction
+WYATT EARP,$400,Wyatt was working as a railroad detective when John Shanssey introduced him to this sometime dentist,Doc Holliday,Fiction
+WHAT THEY ARE,$200,"Bias, Pittacus & Solon were 3 of the 7 sages of this land",Greece,Science/Geography
+THEY GOT STRUCK,$1600,By Colombian banana plantation workers in 1928,the United Fruit Company,Non-Fiction
+THE WORLD'S OCEANS,$200,"At 28,374 feet, the Puerto Rico Trench is this ocean's deepest point",the Atlantic,Science/Geography
+"OF ""STAR""s",$800,Luminous celestial object in Matthew that led the Magi to the Baby Jesus,the Star of Bethlehem,Non-Fiction
+"I'M JUST A ""BILL""",$800,The top of this recreation item is called the bed & may be 800 pounds of slate,a billiard table,Sports
+"""MISS""CELLANY",$200,You don't have to be a rocket scientist to know it's the command center for a manned space flight,Mission Control,Non-Fiction
+EAT A GREEN THING,$400,Small versions of this common garden vegetable used for pickling are often called gherkins,Cucumbers,Non-Fiction
+WORLD CAPITALS,$100,"This capital of Cuba has a colonial museum & not surprisingly, a Museum of the Revolution",Havana,Non-Fiction
+"YOUR BODY AND ""U""",$400,One kind of this is a wound on the skin; another kind affects the mucous membrane as in the lower esophagus,an ulcer,Science/Geography
+HAUNTED AMERICA,$600,"Woodburn, the Dover home of this state's governor, is said to have several resident ghosts",Delaware,Non-Fiction
+CITY OF THE DAY: RALEIGH,$200,"Because of its fine museums, Raleigh has been dubbed this D.C. institution ""of the South""",the Smithsonian,Non-Fiction
+CONGRESSIONAL BEFORE & AFTER,$800,The North Carolina senator grown in Hawaii by one company since 1851,Elizabeth Dole Pineapple,Non-Fiction
+CLASSIC ADS & JINGLES,$400,"""...Tough kids, sissy kids, even kids with chicken pox love"" these",Armour Hot Dogs,Fiction
+FRENCH CUISINE,$100,"Popeye might like epinards au beurre, which is this vegetable with butter",spinach,Non-Fiction
+"""Y"" IS THE ONLY VOWEL",$200,British clergyman Charles Wesley was a notable Methodist writer of these,hymns,Non-Fiction
+SONGS,$1000,The title of this wistful Beach Boys song is also the title of Brian Wilson's autobiography,"""Wouldn't It Be Nice?""",Fiction
+ONCE UPON A NOVEMBER,$1200,"This pair saw the Pacific Ocean for the first time at the mouth of the Columbia River on Nov. 7, 1805",Lewis & Clark,Non-Fiction
+DOUBLE TALK,$600,A soft sound separate from normal heart action; it may indicate a serious problem,a murmur,Science/Geography
+U.S. GEOGRAPHY,$200,A small part of this California mountain range extends into the Lake Tahoe area of Nevada,Sierra Nevadas,Science/Geography
+THE KOSOVO SITUATION,$400,Serbs hold Kosovo dear because they lost a 1389 battle there to this empire,Ottoman Empire,Non-Fiction
+VWLLSS VGTBLS,$800,RTBG,rutabaga,Non-Fiction
+THE 3 R's,$300,The Romans gave us this letter by adding a small stroke to the letter C,G,Non-Fiction
+LET'S SEE WHAT'S OVER THERE,$1600,This Jesuit missionary explored the Mississippi with Louis Joliet,Marquette,Non-Fiction
+HAIL TO THE CHIEF,$1200,"In 1900 he ran on the campaign slogan ""Four years more of the full dinner pail""",McKinley,Non-Fiction
+MOVIE QUOTES,$200,"Orson Welles film in which you'd hear the line ""I think it would be fun to run a newspaper""",Citizen Kane,Fiction
+A LITTLE LEGALESE,"$4,000","Leading questions may be used when dealing with an adverse witness, also called this type of witness",hostile,Non-Fiction
+EXTREME ANIMALS,$1000,"In the greatest mass egg laying, 500,000 of these sea creatures come ashore in Northeast India to nest",sea turtles,Science/Geography
+CHILE DOGS,$400,In Concepcion this large dog is called un gran danes,a Great Dane,Non-Fiction
+WORLD CURRENCY,$400,The aluminum & bronze schilling coin of this country is equivalent to 100 groschen,Austria,Non-Fiction
+IN THE NAVY,$400,In 1972 the U.S. Navy promoted its first woman to this rank,Admiral,Non-Fiction
+"""W""ORDS",$600,"If you've seen enough parsley in your life, try using this as a garnish instead",watercress,Non-Fiction
+10-LETTER WORDS,$400,It's the pigment that makes red blood cells red,Hemoglobin,Science/Geography
+I WANT MY SUV,$400,Grand Cherokee,Jeep,Non-Fiction
+POLITICAL QUOTES,$200,"Louisiana ""Kingfish"" who reportedly said, ""The time has come for all good men to rise above principle""",Huey Long,Non-Fiction
+"ON THE ""TELE""",$1200,Things that are at a distance appear closer when you use this type of camera lens,telephoto,Non-Fiction
+POLITICAL TERMS,$600,"According to the Pledge of Allegiance, our flag stands for this form of government",republic,Non-Fiction
+WE'VE GOT YOUR NUMBER,$200,"During WWII, the total number of stars on the U.S. flag",48,Non-Fiction
+"BACK IN ""BLACK""",$1000,Fashionable nickname for Italy's Fascists,the Blackshirts,Non-Fiction
+THE WORLD ALMANAC'S WIDELY KNOWN AMERICANS,$800,This New Haven-born casino developer is nearly at the end of the list,Steve Wynn,Non-Fiction
+ACTORS' REAL NAMES,$200,"He was born Bela Ferenc Blasko in Lugos, Hungary",Bela Lugosi,Non-Fiction
+GREAT THINGS,$200,The Great Smokies are part of this larger system,the Appalachians,Science/Geography
+"THERE'S AN ""A""",$1000,Krishna is the eighth & best-known of these incarnations of Vishnu,Avatars,Fiction
+PROVERBS,$600,Over 400 years B.C. Thucydides wrote history tends to do this,"""Repeat Itself""",Non-Fiction
+"""F"" IN ANATOMY",$1600,The security of the ankle joint depends largely on this seemingly delicate bone,the fibula,Science/Geography
+TOP 40 COMMENCEMENT ADDRESSES?,$400,"""The past is gone; it went by like dusk to dawn... Dream on, dream on, dream yourself a dream come true""",Aerosmith,Non-Fiction
+WORLD WAR II,$800,Germany's ME-262 jet fighter was made by this manufacturer,Messerschmitt,Non-Fiction
+HIDDEN BIRDPLAY,$800,"After the party, keg returns are easier",an egret (in keg returns),Science/Geography
+FUN WITH OPERA,$800,"Of all the operas we know, this 1893 work based on a Grimm role has the most gingerbread in it",Hansel and Gretel,Fiction
+ACCOUNTING EXAM,$300,The process of a firm selling parts of itself is: A. divestiture B. expenditure C. not really sure,Divestiture,Non-Fiction
+JPL,$500,"(Cheryl of the Clue Crew reports from the JPL in Pasadena)  Scientists at JPL are learning to navigate a vessel close to this type of celestial body, Latin for ""long-haired star""",comet,Science/Geography
+LYRICS OF NO.1 HITS,$2000,"1982: ""Oh-oh here she comes, watch out boy, she'll chew you up, oh-oh here she comes, she's a...""","""a maneater""",Fiction
+"A CHORUS OF ""BOO""S",$1200,It can be a ship's food preparation area or the last car on a freight train,a caboose,Non-Fiction
+OLD RADIO ADVENTURES,$1000,"""The Adventures Of"" this ""Farewell, My Lovely"" detective debuted in 1947, long before the Mitchum film",Philip Marlowe,Non-Fiction
+NATIVE AMERICAN FOODS,$1600,"(<a href=""http://www.j-archive.com/media/2011-11-28_DJ_18.jpg"" target=""_blank"">Sarah of the Clue Crew presents the clue.</a>)  Native Americans traditionally prepared <a href=""http://www.j-archive.com/media/2011-11-28_DJ_18a.jpg"" target=""_blank"">salmon</a> by splitting them & placing them on planks of this evergreen conifer",cedar,Non-Fiction
+SHIPS,$800,"Perhaps the greatest loss of life at sea, over 5,000, came in 1945 when this type of vessel sank the Wilhelm Gustloff",submarine,Non-Fiction
+OOPS!,$500,"American Family Publishers' letter to a Florida church said this addressee was in the running for $11,000,000",God,Non-Fiction
+"WE'RE ALL ""WAITING""",$800,Drama in which Estragon & Vladimir idly pass time away hoping for the title character to appear,Waiting for Godot,Fiction
+WALK WITH ME,$200,"A move you might have learned in preschool is called this squatting ""walk"", after a bird",a duckwalk,Non-Fiction
+WORD ORIGINS,$100,Mark Twain should have known the name of this fruit may be an alternation of “hurtleberry”,huckleberry,Non-Fiction
+MODES OF TRANSPORT,$100,Goodyear's The Eagle,Blimp,Non-Fiction
+"DESERVES AN ""ITHER""",$600,Ruth Welcome was a virtuoso on this musical instrument,the zither,Non-Fiction
+"APRES ""SKI""",$400,"A-line, mini & peasant are 3 types",skirts,Non-Fiction
+LET'S GET SMALL,$800,"Preparing objects for a microscope may include sectioning & this, the dyeing of the object for study",staining,Science/Geography
+"""HY"" SCIENCE",$400,It's the main branch of engineering that studies the mechanical properties of fluids,hydraulic engineering,Science/Geography
+"CROSSWORD CLUES ""L""",$600,"Mario, of movie musicals (5)",Lanza,Non-Fiction
+ON OUR USO TOUR,$600,"(<a href=""http://www.j-archive.com/media/2007-12-21_J_12.jpg"" target=""_blank"">Alex drives a point home from the Atsugi NAF, Japan.</a>) The Army has the Black Hawk, the Air Force has the Pave Hawk, and the Navy has the assault utility vehicle with this name",the Sea Hawk,Non-Fiction
+"""E"" TIMES 3",$400,King David & Jesus both hailed from this town,Bethlehem,Non-Fiction
+"CROSSWORD CLUES ""B""",$1600,To invite or summon (6),beckon,Non-Fiction
+FOOD IN FRENCH,$800,"(Sarah of the Clue Crew reports from Paris)  Oddly, in French, french fries aren't called french fries, but these",pommes frites,Non-Fiction
+DON'T BE CHICKEN,$800,This term for a group hiearchy is based on the social behavior of poultry,pecking order,Non-Fiction
+DURING DiMAGGIO'S HITTING STREAK,$300,This former New York Yankee seen here on a stamp died at age 37,Lou Gehrig,Sports
+TAKE-OFFS,$800,"""Molvania: A Land Untouched by Modern Dentistry"" is a satirical type of this guide",a travel guide,Non-Fiction
+WHALES,$400,"An adult male whale is called a bull, a female is called a cow & a baby whale is called this",a calf,Science/Geography
+WHEN,$100,"On Aug. 28, 1963 he told a crowd gathered in Washington, D.C. ""I have a dream""","Martin Luther King, Jr.",Non-Fiction
+RHYME TIME FOOD & DRINK,$1200,A malt beverage like O'Doul's with little or no alcohol,near beer,Non-Fiction
+SHAKEN-UP SHAKESPEARE,$2000,"Yee-haw!  Colonel John Falstaff goes a-wooing in ""Lone Star Love"", a musical that moves this comedy to Texas",The Merry Wives of Windsor,Fiction
+NETWORKING,$200,"""Barney & Friends"", ""Antiques Roadshow"", ""Mystery!""",PBS,Non-Fiction
+UTTER NONSENSE,$1000,Helium or this can be used to raise a balloon from which a gondola is suspended,hot air,Science/Geography
+COUNTRY SINGERS,$400,"Sinead O'Connor, famed for her shaved head",Ireland,Non-Fiction

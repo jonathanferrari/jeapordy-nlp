@@ -1,0 +1,101 @@
+Category,Value,Question,Answer,class
+THE HEAVENS,$2000,In 1664 Robert Hooke discovered this still largely mysterious feature of Jupiter,the Great Red Spot,Science/Geography
+HISTORIC QUOTES,$1000,"In 1798 Robert Goodloe Harper said, ""Millions for defense, but not one cent for"" this",Tribute,Non-Fiction
+"EAT IT, SPEND IT, OR WEAR IT",$800,Birr,spend it,Non-Fiction
+THIS & THAT,$1600,"In German, it means ""until we see each other again""",auf wiedersehen,Non-Fiction
+TOUGH TV,$400,"Her 3 regular roles on TV have been Zena Sherman, Carla Tortelli & Pearl Caraldo",Rhea Perlman,Non-Fiction
+BITS & PIECES,$600,"Seeing these new guests at the National Zoo, Clinton said he could be like them: sleep 20 hrs. a day & eat 4 hrs.",giant pandas,Non-Fiction
+MEASURE FOR MEASURE,$1000,"Abbreviated Wb, it's a unit of magnetic flux, not barbeque intensity",a weber,Science/Geography
+HEATHERS,$800,Heather Tom (not Heather Thomas) played Victoria Newman on this long-running CBS soap opera,The Young and the Restless,Non-Fiction
+APOCRYPHA NOW,$800,"O! Don't you cry for this woman, whose Apocryphal history finds her falsely accused of adultery",Susanna,Fiction
+GEOLOGY,$1000,"According to plate tectonics theory, there are many plates, each consisting of the crust & the upper part of this",the mantle,Science/Geography
+"CROSSWORD CLUES ""F""",$400,Morris the Cat's adjective              (7),Finicky,Fiction
+SUPER,$2000,"A scene at the end of ""Iron Man"" finds Samuel L. Jackson as this one-eyed S.H.I.E.L.D. director",Nick Fury,Fiction
+CHAD IS RAD,$1600,It's the country directly north of Chad,Libya,Non-Fiction
+GEORGIE,$200,"Born in New Haven, Connecticut in 1946, he grew up to be president of the United States",George W. Bush,Non-Fiction
+SHAKESPEAREAN CHARACTERS,$400,"Of Elbow, Knee, or Blister, the one who's a simple constable in ""Measure For Measure""",Elbow,Fiction
+AMERICAN POETRY,$1200,"In ""the courtship of Miles Standish"", Longfellow wrote, ""youngest of all was he of the men who came in"" this ship",the Mayflower,Non-Fiction
+FORMERLY KNOWN AS,"$1,600","...as Longacre Square, before a major metropolitian newspaper moved in",Times Square,Non-Fiction
+AMERICAN LIT,$200,"In 1876 we saw ""The Adventures Of"" this character; in 1894 he went ""Abroad"" & in 1896 became a ""Detective""",Tom Sawyer,Fiction
+"""GOOD"", ""BAD"" & ""UGLY"" MOVIES",$800,"Robert De Niro, Joe Pesci & Ray Liotta--need I say more?",Goodfellas,Fiction
+FANTASTIC MR. FOX,$400,"When Mr. & Mrs. Fox start a family, the babies are called pups, kits or this, like a bear's",cubs,Fiction
+DESCRIBING THE PRESIDENT,$400,"Had a Springfield in his step, look him up at his Gettysburg Address, enjoyed the theater a bit too much",Abraham Lincoln,Non-Fiction
+POLITICAL COMEBACKS,$200,He lost a presidential election & a gubernatorial election before winning the White House in 1968,Nixon,Non-Fiction
+THEY ALMOST STARRED IN....,$200,"When Winona Ryder bowed out of ""The Godfather, Part III"" his daughter Sofia replaced her",Francis Ford Coppola,Non-Fiction
+THE HILLS ARE ALIVE,$800,"Wold, a Middle English geographical word, gave us the name of these hills, home to Bath & Cheltenham",the Cotswolds,Non-Fiction
+VICE-PRESIDENTS,$100,"Some unkindly called this vice president & successor ""Nixon's revenge""",Ford,Non-Fiction
+TAKES 2 TO TONGA,$800,"Like its longtime benefactor the U.K., Tonga's political system is a hereditary, constitutional one of these",a monarchy,Non-Fiction
+"I ""AM""",$400,Horrors!  It's a 5-letter term for friendliness,amity,Non-Fiction
+YOU'RE A JEOPARDY! FAN IF…,$200,"A citizenship test asks for these 3 enemy countries of the U.S. in WWII & all you hear is ""Da-da-da-da…""","Germany, Italy & Japan",Non-Fiction
+DANGEROUS PLANET,$800,"Almost 200,000 buildings were damaged or destroyed when one of these hit Kobe, Japan in 1995",an earthquake,Non-Fiction
+OSCAR-WINNING SINGERS,None,2 of the 4 people who've had a Billboard No. 1 pop album & also won a regular acting Oscar,"(2 of) Bing Crosby, Frank Sinatra, Barbra Streisand, & Jamie Foxx",Non-Fiction
+"IT'S ALWAYS ABOUT ""U""",$1000,The language known as Hindi is very close to this official language of Pakistan,Urdu,Non-Fiction
+GUITARIST'S LINGO,$400,The Byrds' Roger McGuinn is perhaps the most famous player of the Rickenbacker guitar with this many strings,12,Non-Fiction
+CHAPTER ONE,$300,"""Nobody tells fibs in Boston"", says Mrs. Luna in chapter one of his 1880s novel ""The Bostonians""",Henry James,Non-Fiction
+FILMS OF THE '70s,$1000,"In 1975 John Huston co-starred with Sean Connery in ""The Wind and the Lion"" & directed him in this film",The Man Who Would Be King,Fiction
+FRENCH SAUCES,$400,"Veloute, made of stock thickened with a flour & butter roux, is named for this fabric--it's that smooth",velvet,Non-Fiction
+DESCRIBING THE TV SHOW,$400,"Gary Coleman co-stars, at home with the Drummonds, what'chu talkin' 'bout, contestants?",Diff'rent Strokes,Fiction
+THE EMMYS,$1600,Bruce Willis won an Emmy for his guest shot on this sitcom as a lawyer who was eager to date Rachel,Friends,Fiction
+GET A JOB ALREADY!,$600,This occupation consists of perambulating with basenjis & schnauzers,walking the dogs,Non-Fiction
+THE ENVIRONMENT,$200,"This ""colorful"" & controversial activist environmental group was formed in Canada in 1971",Greenpeace,Science/Geography
+THE AMERICAN FLAG,$600,"According to the Pledge of Allegiance, the American flag stands for this type of government",Republic,Non-Fiction
+"YOU'VE MET YOUR ""MATCH""",$800,Beyond comparison,matchless,Non-Fiction
+9-LETTER WORDS,$400,Impossible to read because of poor handwriting,illegible,Non-Fiction
+DIRECT TO VIDEO,$100,"You can order a copy of this fitness guru's ""Sweatin' To The Oldies"" from his web site",Richard Simmons,Non-Fiction
+BEAR WITH ME,$400,Customers at the saloon of this frontier judge would buy sarsaparilla for his bear Bruno,Judge Roy Bean,Non-Fiction
+ENTOMBMENT,$200,Trinity Church in NYC was where this Treasury Sec. worshipped & where he was buried after the duel,Alexander Hamilton,Non-Fiction
+NATHANIEL HAWTHORNE,$1200,"When his friend Franklin Pierce became president, Hawthorne was made a diplomat to this ""fab"" British city",Liverpool,Non-Fiction
+REDHEADS,$200,This redheaded Aussie wife of Tom Cruise was actually born in Hawaii,Nicole Kidman,Non-Fiction
+BOOKS ABOUT TV SHOWS,$900,Colin Dexter & Dick Francis contributed to a book about this PBS anthology series,Mystery!,Non-Fiction
+"THE ""WEST"" WING",$100,In 1863 it was admitted to the Union as the 35th state,West Virginia,Non-Fiction
+NAME THAT CENTURY,$2000,The Manchu Dynasty is overthrown in China,the 20th century,Non-Fiction
+A KITTY CAT-EGORY,$400,This most popular breed of longhair cat is also simply known as the longhair,Persian,Science/Geography
+TEA TIME,$100,Spots for this brisk tea starred claymation baseball heroes Reggie Jackson & Babe Ruth,Lipton,Sports
+ESTATE QUARTERS,$1600,The tartan worn by the queen's piper is displayed at Balmoral Castle in this U.K. nation,Scotland,Non-Fiction
+LEFTOVERS,$200,"A notebook newly brought to light shows this Procter partner's ""Eureka!"" moment in making Ivory soap float",Gamble,Non-Fiction
+BEHIND THE MUSIC,$2000,"<a href=""http://www.j-archive.com/media/2002-02-25_DJ_10.mp3"">One of the most poignant BTM episodes reunited this teen idol with his paralyzed friend Roland Winkler</a>",Leif Garrett,Non-Fiction
+HORTON HEARS A HOOSIER,$200,"This aviator first flew into the world near Millville on April 16, 1867; Orville landed in Ohio in 1871",Wilbur Wright,Non-Fiction
+WHERE YA FROM?,$400,Lucy Lawless,New Zealand,Non-Fiction
+A DAY AT THE MUSEUM,$800,"(<a href=""http://www.j-archive.com/media/2009-02-11_DJ_12.jpg"" target=""_blank"">Sarah of the Clue Crew reports from Bilbao, Spain.</a>) What ""The New York Times"" called ""the miracle in Bilbao"", <a href=""http://www.j-archive.com/media/2009-02-11_DJ_12a.jpg"" target=""_blank"">this</a> building was made possible by computer design & a 1/10th-inch thick <a href=""http://www.j-archive.com/media/2009-02-11_DJ_12b.jpg"" target=""_blank"">skin</a> made of this material used on spacecraft",titanium,Non-Fiction
+WORKING WITHOUT ANNETTE,$600,"With Annette nowhere in sight, Frankie Avalon played a 39-year-old teen angel in this 1978 musical film",Grease,Fiction
+MILK,$2000,Milk is forced through small openings at high pressure to evenly distribute the cream in this process,homogenization,Science/Geography
+"LET IT SNOW, LET IT SNOW, LET IT SNOW",$400,The National Weather Service defines this as snowy winds of 35 mph with 1/4 mile visibility lasting for 3 hours,a blizzard,Science/Geography
+SINGERS,None,"Artist who released the 1991 double album ""Who'll Buy My Memories:  The I.R.S. Tapes""",Willie Nelson,Non-Fiction
+THE CIVIL WAR,$1200,"Though designed to hold 10,000 men, this notorious prison once held more than 32,000",Andersonville,Non-Fiction
+AMERICAN POLITICAL IDOL,"$1,500","The Whiskey Ring scandal & William Belknap, his Sec. of War, impeached? No wonder this Republican didn't get a third term!",Ulysses Grant,Non-Fiction
+THE SCIENCE OF SOUND,$800,"""Wood"" you like to name this, the quality of voiced speech sound that lets the ear identify it",timbre,Science/Geography
+EUROPEAN HISTORY,$2000,In 338 B.C. this Macedonian king ended Greece's independence with victory in the battle of Chaeronea,Philip,Non-Fiction
+"THE ""BYRD""s & THE ""BEA""s",$800,"This admiral led a third Antarctic expedition, discovering Thurston island in 1939",Richard Byrd,Non-Fiction
+OSCAR YOUNGEST/OLDEST,"$8,800",Youngest Best Actor winner: This 29-year-old in 2003 for a WWII-set film,Adrien Brody,Non-Fiction
+"THE SOUND OF ""MUSIC""",$200,"10 kids, 9 seats, 1 piano & you're ready to play this",Musical chairs,Sports
+HISTORIC AMERICA,$400,"A shrine in Allentown, Penn. is built above the spot where this patriotic symbol was hidden in 1777",the Liberty Bell,Non-Fiction
+THE DENVER MINT,$400,"(<a href=""http://www.j-archive.com/media/2007-07-05_DJ_26.jpg"" target=""_blank"">Kelly of the Clue Crew reports from the Denver Mint.</a>) Production of quarters starts with coils of metal fed into a press; it's mainly this metal, that's more associated with pennies",copper,Science/Geography
+'50s SONG LYRICS,$300,"This Carl Perkins hit begins, ""Well, it's one for the money, two for the show....""","""Blue Suede Shoes""",Fiction
+MUSICAL BY CHARACTERS,$200,Fantine & her daughter Cosette,Les Misérables,Fiction
+HORSES,$200,This spotted breed originated in the Palouse River region of Washington & Idaho,Appaloosa,Science/Geography
+EXPLORERS & EXPLORATION,$200,"Richard Burton claimed John Speke didn't follow this river in full from its source, so he was a big faker",the Nile,Non-Fiction
+POLITICIANS MAKE ME CUSS,$400,"""For the love of"" Wyoming senator Enzi!",Mike,Non-Fiction
+WORD ORIGINS,$200,Type of moustache named for its resemblance to a bicycle part,Handlebar,Non-Fiction
+THE END,$1000,This captain & his ship disappear into a maelstrom at the end of a Jules Verne tale,Captain Nemo,Fiction
+SO GREAT THEY NEED 2 NICKNAMES,$200,"Before he was Magic he was June Bug, because he's Earvin Junior","""Magic"" Johnson",Sports
+HOOKED ON HOMOPHONICS,$600,"An adjective being permitted, or an adverb meaning communicated vocally",allowed / aloud,Non-Fiction
+THE FOOD SECTION,$800,"Pan de muerto, an egg-rich bread, is a favorite in Mexico on this aptly named 4-word holiday",Day of the Dead,Non-Fiction
+BROADWAY,$600,"In April 2000 Sir Derek Jacobi returned to Broadway in a new production of this playwright's ""Uncle Vanya""",Anton Chekhov,Non-Fiction
+AFRICAN MYTHOLOGY,None,"The great creator said these animals couldn't eat the fish of the river, so they fed on the land at night",Hippos,Science/Geography
+"HOWDY, PARTNER!",$200,19th century printing partner of Nathaniel Currier,Ives,Non-Fiction
+THE U.S. CONGRESS,$400,She was the first British monarch to address the U.S. Congress,Elizabeth II,Non-Fiction
+TECH TALK,$1600,3-letter (sounding like 3-word) name of an instant messaging program introduced in November 1996,ICQ,Non-Fiction
+"""J"" WALKING",$2000,Christian monk & translator Eusebius Hieronymus is better known as this saint,Saint Jerome,Non-Fiction
+ANIMAL NAMES,$1600,"This scarab relative, often seen at night, is named for the time of year when it's most prevalent",a junebug,Science/Geography
+PACKAGING,$500,"Term for a type of ""bomb"" or a spray can that contains gas under pressure",Aerosol,Non-Fiction
+PET PROJECTS,$400,Monsieur Le Pelt joins Cruella de Vil in the chase for 102 of these in a 2000 sequel,Dalmatians,Fiction
+ASTRONOMERS,$400,Oh my heavens!  In 1706 Danish astronomer Olaus Roemer published a new catalog listing these,stars,Science/Geography
+"WALK INTO A ""BAR""",$400,"It's been said life is this, old chum, a restaurant with music & often a floor show",a cabaret,Non-Fiction
+FORMULA2,$800,"SnF<sub>2</sub>, found in toothpaste, is also called stannous this",fluoride,Science/Geography
+THE NEW YORK TIMES SCIENCE TIMES,$800,"A Times headline said Beelzebufo ampinga, at 10 pounds the largest of these ever, ""hopped with dinosaurs""",a frog,Science/Geography
+SPORTS,$200,"In 1988 after 8 seasons as the NHL's MVP, this center was traded by Edmonton to the L.A. Kings",Wayne Gretzky,Sports
+PRESIDENTIAL FACTS,$200,In 1937 he made his first movie,Ronald Reagan,Non-Fiction
+NATIVE AMERICANS,$600,"A member of the Kaw tribe of Kansas, Charles Curtis was vice president under this man from 1929 to 1933",(Herbert) Hoover,Non-Fiction
+FRENCH AUTHORS,$800,"Born Amandine Aurore Lucile Dupin, she chose this pseudonym for her 1st novel, 1832's ""Indiana""",George Sand,Non-Fiction
+ABBA-SOLUTELY FABULOUS,$400,"""See that girl, watch that scene, dig in"" this ABBA title teen",the Dancing Queen,Fiction
+"A ""HARD"" PLACE",$300,"Song that tells us, ""When I get home to you, I find the things that you do will make me feel alright""","""A Hard Day's Night""",Fiction

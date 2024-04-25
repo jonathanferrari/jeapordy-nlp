@@ -1,0 +1,101 @@
+Category,Value,Question,Answer,class
+WOMEN AUTHORS,$2000,"2008's ""The Purrfect Murder"" is the latest in a series of mysteries by this activist & her cat Sneaky Pie",Rita Mae Brown,Fiction
+"IT'S CANADA, EH",$2000,"The name of this peninsula in S.E. Quebec might come from a Mi'kmaq Indian word meaning ""land's end""",Gaspé,Non-Fiction
+"DOME, SWEET DOME",$400,The only ruin intenionally left standing in this Japanese city is the A-Bomb Dome,Hiroshima,Non-Fiction
+___ OF ___,$200,Edith Wharton won a Pulitzer Prize for this novel,The Age of Innocence,Fiction
+TRANSPORTATION,$300,"One of America's busiest airports, its 3-letter designation is ORD",O'Hare Airport (Chicago),Non-Fiction
+SCIENTISTS,$100,Former German scientist who became director of the Geo. C. Marshall Space Flight Center in 1960,(Wernher) Von Braun,Science/Geography
+THE OLD WEST,$300,"In Old West slang, someone in ""these"" with another was in partnership with him",cahoots,Non-Fiction
+MIDDLE NAMES,$200,Middle name of baseball pitcher Lynn Ryan Jr.,Nolan,Sports
+WILLIAM PENNED,$600,"In ""Lord of the Flies"" he explored the dark side of human nature",William Golding,Non-Fiction
+BOOKS & AUTHORS,$800,"Perhaps the effort killed him--he died not long after completing his masterpiece ""The Brothers Karamazov""",Dostoyevsky,Non-Fiction
+"STARTS & ENDS WITH ""A""",$200,"In this province, Medicine Hat, as well as Calgary, hold annual stampedes",Alberta,Non-Fiction
+CONVERSIONS,$100,1 quart equals 2 of these,pints,Science/Geography
+THE BELLS ARE RINGING,$1000,"Poe rhymed ""the rolling of the bells--of the bells, bells, bells"", with this ""of the bells""",the tolling of the bells,Fiction
+"OOO, SORRY",$800,You're 20 years late--Lagos was replaced in 1991 as the capital of this country,Nigeria,Non-Fiction
+"""O"" BABY!",$1200,Examples of this exotic flower include Snakemouth & Lady's Slipper,orchid,Science/Geography
+U.S. COINS,$800,"It should be easy to ""home"" in on this longest of the 10 words on the back of a current nickel",Monticello,Non-Fiction
+ZOOLOGY,$100,"Despite its name, it can have anywhere from 14 to 177 piars of legs",Centipede,Science/Geography
+WHERE WORDS COME FROM,$800,Latin: This device you open when it's precipitating,an umbrella,Non-Fiction
+"""NIGHT"" SHIFT",$800,A traditional police weapon,a nightstick,Non-Fiction
+MR. POTATO HEAD,$200,"Mr. Potato Head's ""Picnic Pals"" of the '60s included Mr. Ketchup Head & this other condiment character",Mr. Mustard Head,Fiction
+STUFF,$1200,"StuffIt, which makes computer files smaller, is this type of program, also a kind of wave or bandage",compression,Non-Fiction
+BEN FRANKLIN,$600,"<a href=""http://www.j-archive.com/media/2004-12-02_J_09.jpg"" target=""_blank"">This job Ben got in 1753</a> helped his business, as <a href=""http://www.j-archive.com/media/2004-12-02_J_09.mp3"">described here</a>",Postmaster,Non-Fiction
+TRANSLATION,$200,"English readers & Disney viewers know Hugo's ""Notre-Dame de Paris"" by this title","""The Hunchback of Notre Dame""",Fiction
+FOOD AKA,$600,1 of the 2 U.S. cities that are aliases for strip steak,New York (or Kansas City),Science/Geography
+BIBLE BOOK BINDINGS,$400,Hey ___ Law,Jude,Fiction
+ART HISTORY,$100,This ancient statue is also named the Aphrodite of Melos,Venus de Milo,Non-Fiction
+GOING CUCKOO,$100,"Sonny is the bird who's ""cuckoo for"" this cereal",Cocoa Puffs,Fiction
+ACTORS PLAYING ACTORS,$200,"Kate Mulgrew portrayed this legendary Kate in the 2002 play ""Tea at Five""",Kate Hepburn,Fiction
+BREAKFAST CEREALS,$600,Disney Buzz Blasts was inspired by this movie,Toy Story,Fiction
+"""XE""-LENT",$1000,An unreasonable fear or hatred of foreigners,xenophobia,Non-Fiction
+WORLD WAR I,$700,"Later a marshal, on April 14, 1918 he was named commander of all Allied forces in France",Marshal Ferdinand Foch,Non-Fiction
+SHOP 'TIL YOU DROP,$1200,"This electronics store wants to be female-friendly & now has Magnolia Stores, which have a living room feel",Best Buy,Non-Fiction
+PORT CITIES,None,It was Russia's third-largest city until it became the capital of an independent republic in 1918,"Riga, Latvia",Non-Fiction
+AUGUST,$200,"On August 12, 1867 President Johnson named this Civil War general his new Secretary of War",Ulysses S. Grant,Non-Fiction
+SCIENCE FICTION,$200,The central character in this 1953 novel by Ray Bradbury is third-generation fireman Guy Montag,Fahrenheit 451,Fiction
+COUNTRIES BY CAPITAL,$200,South of the border: Santiago,Chile,Non-Fiction
+"NEXT STOP, VENUS",$1000,"Similar to an eclipse, it's the term for the rare passing in front of the sun that Venus did on June 8, 2004",a transit,Science/Geography
+VICE PRESIDENTS,$300,"In 1900 Republicans put this ""Rough Rider"" on the ticket to counter the appeal of Democrat William Jennings Bryan",Theodore Roosevelt,Non-Fiction
+THAT'S HISTORY,$400,"When the Tuscaroras joined, the Iroquois League updated its name to this",League of Six Nations,Non-Fiction
+SOUND TECHNOLOGY,$200,"<a href=""http://www.j-archive.com/media/2005-07-21_J_22.mp3"">This</a> computer device slowly takes you online",a modem,Non-Fiction
+"IT'S A ""SNAP""",$1000,These aggressive freshwater reptiles can reach 30 inches across & 200 pounds,snapping turtle,Science/Geography
+SURVIVOR: CONGRESS,$200,The tribe has spoken to the 8 Republicans who have run against this Massachusetts senator since 1962,Ted Kennedy,Non-Fiction
+THE SMALLEST IN AREA,$200,"Andorra, Monaco, Vatican City",Vatican City,Non-Fiction
+"""O""PERA",$1600,Titania & Puck play a part in the Carl Maria Von Weber opera named for this king of the fairies,Oberon,Fiction
+"DOME, SWEET DOME",$200,It's the European city you'll visit to see the dome seen here,Rome,Non-Fiction
+CONSTELLATIONS,$800,"Ptolemy listed a constellation named for this, Jason's ship; it's been replaced by Carina, Puppis, Pyxis & Vela",the Argo,Non-Fiction
+JACKSON HOLE,$400,In 1989 this famous East Coast symphony orchestra held its first ever summer residency in Jackson Hole,the New York Philharmonic,Non-Fiction
+NATIONAL STATUARY HALL,$300,This state is represented by a monarch,Hawaii,Non-Fiction
+"CROSSWORD CLUES ""S""",$400,"City by the bay (3, 9)",San Francisco,Science/Geography
+WORLD LITERATURE,$600,"Rohan, or Riddermark, is an important realm of Middle-Earth in books by this author",Tolkien,Non-Fiction
+GETTING MALL-ED,$400,In 1986 ThisCompanyKids opened its first store; in 1990 BabyThisCompany was born,The Gap,Non-Fiction
+HISTORIC DOCUMENTS,$200,Much of this man's 1796 farewell address was Alexander Hamilton's work,George Washington,Non-Fiction
+"FISH, BIRD OR MAMMAL",$1000,The margay,a mammal,Science/Geography
+"5 ""CC""s",$600,"When Native Americans put on the old soft shoes, they are often these, made of soft leather or deerskin",moccasins,Non-Fiction
+NAME THE PARENT COMPANY,$1600,Dutch Boy paints,Sherwin-Williams,Non-Fiction
+H.H.,$600,"In 1607, he sailed further north than anyone before him, reaching Spitsbergen, 700 mi. from the Pole",Henry Hudson,Non-Fiction
+LONG LIVE THE COMPANY,$200,"This company started by selling starch, soap & candles in 1806; it merged with Palmolive in 1928",Colgate,Non-Fiction
+ENDS WITH 3 VOWELS,$1600,Emmy-winning actor Bridges,Beau,Non-Fiction
+LYRICS,$500,"""Lay Down, Sally"", and do this",rest you in my arms (rest here in my arms accepted),Fiction
+BUSINESS & INDUSTRY,$200,Recent versions of this company's flagship product include Dr. Barbie & Teacher Barbie,Mattel,Non-Fiction
+BRANDS,$1600,This candy-coated gum brand is named for a substance used to make gum,Chiclets,Non-Fiction
+APPROXIMATE WEIGHTS & MEASURES,$400,It can be a small piece of gold or a bite-sized piece of batter-fried chicken,a nugget,Non-Fiction
+RHYME TIME,$200,$1.99 for a box of Uncle Ben's,rice price,Non-Fiction
+"""ISM""s","$3,000","If your can of green beans bulges out, it may be contaminated with this food poisoning",botulism,Science/Geography
+RUSSIAN FOOD & DRINK,$600,"Named for a former Soviet city, this butter-filled fried chicken dish is often served in Russian cuisine",chicken Kiev,Non-Fiction
+BODIES OF WATER,$100,The Foxe Channel connects the Arctic Ocean with this huge Canadian bay,Hudson Bay,Science/Geography
+PEZ,$200,"In 1927 an Austrian candy man created the name ""Pez"" by shortening the German word ""Pfefferminz"" (this flavor)",peppermint,Non-Fiction
+THE ENVIRONMENT,$1000,"In 1978 the U.S. banned use of these, called CFCs for short, as propellants in most spray cans",Chloroflourocarbons,Non-Fiction
+KINGS NAMED GUSTAV,$400,Current king Carl XVI Gustaf met his wife at this event in Munich in 1972; she was an interpreter,Summer Olympics,Non-Fiction
+"GET ""OUT OF"" HERE!",$1000,Robert Redford played hunter Denys Finch Hatton in this 1985 biopic,Out of Africa,Fiction
+FOR PETE'S SAKE,$500,"World Book says it, flat out: this man ""was the greatest Flemish painter of the 1600s""",(Peter Paul) Rubens,Non-Fiction
+SKIN DEEP,$300,The little sections of dead epidermis around your fingernails,Cuticles,Science/Geography
+COLONIAL NAMES FOR COUNTRIES,$400,Dutch East Indies,Indonesia,Non-Fiction
+DOWN SOUTH,$800,In 2004 this hyphenated North Carolina city was named one of the most livable cities in America,Winston-Salem,Non-Fiction
+MAY,$300,"This institution was formally dedicated May 1, 1847 in Washington, D.C.",Smithsonian Institution,Non-Fiction
+"HELLO, ALEX",$800,"His ""Gulag Archipelago"" led to his arrest & forced deportation",Aleksandr Solzhenitsyn,Non-Fiction
+"""SAN""",$2000,"This seat of Erie County, Ohio was an Underground Railroad stopping point",Sandusky,Science/Geography
+SIGNS & SIGNALS,$200,"In this game, a tug on the ear means ""sounds like"", and a touch on the nose: ""you're right""",Charades,Sports
+LET'S SPEAK PORTUGUESE,$1000,"A casa de fado is a restaurant that also features this, as the ""fado"" tells you",songs,Non-Fiction
+THE LAST,$800,People with this distinction have included Tevfik Esenc (for Ubykh) & Ned Maddrell (for Manx),the last speaker of their language,Non-Fiction
+LET'S GET TOGETHER,$1000,This island in the Indian Ocean shares its name with a type of get-together,Reunion Island,Science/Geography
+LANDLOCKED UP,$400,One of the 2 landlocked countries that border the Czech Republic,(1 of) Austria (or Slovakia),Non-Fiction
+MOVIE DEBUTS,$100,"His first film, the 1940 musical ""Too Many Girls"", starred Lucille Ball; they married soon after",Desi Arnaz,Non-Fiction
+FROM A TO Y,$1000,"After that bitter divorce, you might have to pay this, spousal support",alimony,Non-Fiction
+FIRE WHEN READY,$200,"The October 1871 fire in this U.S. city burned more than 17,000 buildings & claimed 250 lives",Chicago,Non-Fiction
+PAUL REVERE,$400,Boston's Museum of Fine Arts has an impressive collection of Revere's work in this metal,silver,Non-Fiction
+ENDANGERED SPECIES,$600,The Peregrine species of this bird is sometimes called the duck hawk in the U.S.,the falcon,Science/Geography
+A KATE-GORY,$500,"Celebrity birthdays for January 16 include Marilyn Horne, A.J. Foyt & this waif supermodel",Kate Moss,Non-Fiction
+ALPHABETICALLY FIRST,$400,Of the numbers 1-10 spelled out,eight,Non-Fiction
+"THE BIRDS & THE ""B""s",$400,"Take these broken wings & learn to fly, you Turdus merula, aka this colorful bird",blackbird,Science/Geography
+THE REPLACEMENTS,$200,"A piece that makes it to your foe's deepest row in checkers can be replaced with one of these ""royal"" ones",a king,Sports
+COSMETICS & PERFUME,$500,"Guerlain perfume named for the ""Garden of Love"" built by a Mogul emperor",Shalimar,Non-Fiction
+BRITISH HISTORY,$1000,"Though it sounds like a grim volume, it's just William the Conqueror's survey of the British kingdom",The Domesday Book,Non-Fiction
+THE HERO WITH...,$800,The Golden Apples of the Hesperides,Hercules,Fiction
+"O CAPTAIN, MY POP CULTURE CAPTAIN",$1200,"Daniel J. Travanti tried to be ""careful out there"" as Captain Furillo on this show",Hill Street Blues,Fiction
+PAUL REVERE,$800,In 1801 Revere opened America's first copper-rolling mill; he later made copper sheeting for this ship's hull,the Constitution,Non-Fiction
+AROUND THE HORN,$600,This strait that separates the Pacific & Atlantic oceans is named for a Portuguese guy,Magellan,Non-Fiction
+CLOTHING,$400,Low necklines & high waists were features of the Empire Style popularized c. 1805 by this French empress,Josephine,Non-Fiction
+ACTORS & THEIR ROLES,$200,"Tom Hanks got the starring role in this ""huge"" film after Robert De Niro turned it down","""Big""",Fiction
+TREATIES,$400,The 1979 Israel-Egypt Peace Treaty allowed Israel access to this man-made waterway,the Suez Canal,Non-Fiction
