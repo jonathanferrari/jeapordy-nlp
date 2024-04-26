@@ -169,7 +169,7 @@ RELIGION,$400,This synagogue ceremony marking manhood dates to the Middle Ages,B
 "YOU JUST HAVE TO ""ASK""",$1000,Gordie Howe got his first pair of skates growing up in this Canadian city,Saskatoon,Non-Fiction
 SPACE EXPLORATION,$200,"In 1984 Bruce McCandless became the first human to perform an untethered EVA, which stands for this",Extra-vehicular activity,Non-Fiction
 1998 QUOTATIONS,$100,"Concerning a failed Windows 98 demonstration, he said, ""I guess we still have some bugs to work out""",Bill Gates,Non-Fiction
-BILLBOARD MAGAZINE,None,"Launched in 2004, Billboard's first Top 20 chart for these included ""My Boo"", the ""Halloween"" theme & ""Ice Ice Baby""",ringtones,Non-Fiction
+BILLBOARD MAGAZINE,,"Launched in 2004, Billboard's first Top 20 chart for these included ""My Boo"", the ""Halloween"" theme & ""Ice Ice Baby""",ringtones,Non-Fiction
 """WOO"" WOO!",$400,Chewbacca is the best known of these fictional creatures,a Wookiee,Fiction
 BOXING,$400,In 1915 Jess Willard took the heavyweight title from this first black man to hold it,(Jack) Johnson,Sports
 HYPO-POURRI,$200,"One who fears that he is suffering from a major undetected disease, despite medical evidence to the contrary",a hypochondriac,Science/Geography
@@ -182,7 +182,7 @@ GAP,$200,Feel like a swim?  The gap between Florida & this island nation of 11 m
 CAPITAL PUNISHMENT,$200,Mata Hari,Firing Squad,Non-Fiction
 SNL ALUMNI,$600,In 1999 he pumped up nightclubs with a musical tribute to his hero Frank Sinatra,Joe Piscopo,Non-Fiction
 CAPITAL IDEAS,$800,The U.K. helped fund the design of this capital after Belize City was destroyed by a hurricane,Belmopan,Non-Fiction
-SPORTSWOMEN,None,"Referring to a 1999 incident, her autobiography is titled ""It's Not About the Bra""",Brandi Chastain,Non-Fiction
+SPORTSWOMEN,,"Referring to a 1999 incident, her autobiography is titled ""It's Not About the Bra""",Brandi Chastain,Non-Fiction
 LET'S HAVE A CONFERENCE,$600,"(I'm NFL wide receiver Jimmy Smith)  I played for Jackson State University in this conference, abbreviated the SWAC",Southwestern Athletic Conference,Sports
 CLASS FIELD TRIP,$1200,A class field trip to an aviary means you're going to an enclosure where these are kept,birds,Non-Fiction
 POTPOURRI,$400,The Kennedy Center's grand foyer is lit with 18 of these crystal items; they each weigh a ton,Chandeliers,Non-Fiction

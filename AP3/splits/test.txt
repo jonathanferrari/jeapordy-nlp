@@ -31,7 +31,7 @@ BREAKFAST CEREALS,$600,Disney Buzz Blasts was inspired by this movie,Toy Story,F
 """XE""-LENT",$1000,An unreasonable fear or hatred of foreigners,xenophobia,Non-Fiction
 WORLD WAR I,$700,"Later a marshal, on April 14, 1918 he was named commander of all Allied forces in France",Marshal Ferdinand Foch,Non-Fiction
 SHOP 'TIL YOU DROP,$1200,"This electronics store wants to be female-friendly & now has Magnolia Stores, which have a living room feel",Best Buy,Non-Fiction
-PORT CITIES,None,It was Russia's third-largest city until it became the capital of an independent republic in 1918,"Riga, Latvia",Non-Fiction
+PORT CITIES,,It was Russia's third-largest city until it became the capital of an independent republic in 1918,"Riga, Latvia",Non-Fiction
 AUGUST,$200,"On August 12, 1867 President Johnson named this Civil War general his new Secretary of War",Ulysses S. Grant,Non-Fiction
 SCIENCE FICTION,$200,The central character in this 1953 novel by Ray Bradbury is third-generation fireman Guy Montag,Fahrenheit 451,Fiction
 COUNTRIES BY CAPITAL,$200,South of the border: Santiago,Chile,Non-Fiction

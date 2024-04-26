@@ -28,7 +28,7 @@ TAKES 2 TO TONGA,$800,"Like its longtime benefactor the U.K., Tonga's political 
 "I ""AM""",$400,Horrors!  It's a 5-letter term for friendliness,amity,Non-Fiction
 YOU'RE A JEOPARDY! FAN IF…,$200,"A citizenship test asks for these 3 enemy countries of the U.S. in WWII & all you hear is ""Da-da-da-da…""","Germany, Italy & Japan",Non-Fiction
 DANGEROUS PLANET,$800,"Almost 200,000 buildings were damaged or destroyed when one of these hit Kobe, Japan in 1995",an earthquake,Non-Fiction
-OSCAR-WINNING SINGERS,None,2 of the 4 people who've had a Billboard No. 1 pop album & also won a regular acting Oscar,"(2 of) Bing Crosby, Frank Sinatra, Barbra Streisand, & Jamie Foxx",Non-Fiction
+OSCAR-WINNING SINGERS,,2 of the 4 people who've had a Billboard No. 1 pop album & also won a regular acting Oscar,"(2 of) Bing Crosby, Frank Sinatra, Barbra Streisand, & Jamie Foxx",Non-Fiction
 "IT'S ALWAYS ABOUT ""U""",$1000,The language known as Hindi is very close to this official language of Pakistan,Urdu,Non-Fiction
 GUITARIST'S LINGO,$400,The Byrds' Roger McGuinn is perhaps the most famous player of the Rickenbacker guitar with this many strings,12,Non-Fiction
 CHAPTER ONE,$300,"""Nobody tells fibs in Boston"", says Mrs. Luna in chapter one of his 1880s novel ""The Bostonians""",Henry James,Non-Fiction
@@ -60,7 +60,7 @@ A DAY AT THE MUSEUM,$800,"(<a href=""http://www.j-archive.com/media/2009-02-11_D
 WORKING WITHOUT ANNETTE,$600,"With Annette nowhere in sight, Frankie Avalon played a 39-year-old teen angel in this 1978 musical film",Grease,Fiction
 MILK,$2000,Milk is forced through small openings at high pressure to evenly distribute the cream in this process,homogenization,Science/Geography
 "LET IT SNOW, LET IT SNOW, LET IT SNOW",$400,The National Weather Service defines this as snowy winds of 35 mph with 1/4 mile visibility lasting for 3 hours,a blizzard,Science/Geography
-SINGERS,None,"Artist who released the 1991 double album ""Who'll Buy My Memories:  The I.R.S. Tapes""",Willie Nelson,Non-Fiction
+SINGERS,,"Artist who released the 1991 double album ""Who'll Buy My Memories:  The I.R.S. Tapes""",Willie Nelson,Non-Fiction
 THE CIVIL WAR,$1200,"Though designed to hold 10,000 men, this notorious prison once held more than 32,000",Andersonville,Non-Fiction
 AMERICAN POLITICAL IDOL,"$1,500","The Whiskey Ring scandal & William Belknap, his Sec. of War, impeached? No wonder this Republican didn't get a third term!",Ulysses Grant,Non-Fiction
 THE SCIENCE OF SOUND,$800,"""Wood"" you like to name this, the quality of voiced speech sound that lets the ear identify it",timbre,Science/Geography
@@ -81,7 +81,7 @@ SO GREAT THEY NEED 2 NICKNAMES,$200,"Before he was Magic he was June Bug, becaus
 HOOKED ON HOMOPHONICS,$600,"An adjective being permitted, or an adverb meaning communicated vocally",allowed / aloud,Non-Fiction
 THE FOOD SECTION,$800,"Pan de muerto, an egg-rich bread, is a favorite in Mexico on this aptly named 4-word holiday",Day of the Dead,Non-Fiction
 BROADWAY,$600,"In April 2000 Sir Derek Jacobi returned to Broadway in a new production of this playwright's ""Uncle Vanya""",Anton Chekhov,Non-Fiction
-AFRICAN MYTHOLOGY,None,"The great creator said these animals couldn't eat the fish of the river, so they fed on the land at night",Hippos,Science/Geography
+AFRICAN MYTHOLOGY,,"The great creator said these animals couldn't eat the fish of the river, so they fed on the land at night",Hippos,Science/Geography
 "HOWDY, PARTNER!",$200,19th century printing partner of Nathaniel Currier,Ives,Non-Fiction
 THE U.S. CONGRESS,$400,She was the first British monarch to address the U.S. Congress,Elizabeth II,Non-Fiction
 TECH TALK,$1600,3-letter (sounding like 3-word) name of an instant messaging program introduced in November 1996,ICQ,Non-Fiction
